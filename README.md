@@ -1,21 +1,33 @@
 # 🚀 Portfolio Digital - Esteban Rodríguez
 
 [![Live Site](https://img.shields.io/badge/Live-aerobalderas.github.io-blue?style=for-the-badge)](https://aerobalderas.github.io)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
 
-## 📌 Sobre este proyecto:
+## 📌 Sobre este proyecto
 
-CV digital interactivo construido con HTML, CSS y JavaScript vanilla. Diseño moderno inspirado en las tendencias actuales de UI/UX con animaciones fluidas y diseño responsivo.
+CV digital interactivo construido desde cero con HTML, CSS y JavaScript vanilla. Diseño moderno y responsivo que refleja mi transición de Relaciones Públicas a MLOps Engineering.
 
 ## 👨‍💻 Acerca de mí
 
-Estudiante de Ingeniería en Inteligencia Artificial con background en Ciencias de la Comunicación. Especializado en:
+Especialista en MLOps en formación con background único en Ciencias de la Comunicación (UNAM). Actualmente cursando Ingeniería en Inteligencia Artificial en Hybridge Education.
 
-- 🤖 Machine Learning & NLP
-- 🐍 Python, MySQL, PostgreSQL
-- 💼 Gestión de Crisis y Comunicación Estratégica
-- ⚖️ IA Ética y protección de reputación corporativa
+**Mi diferenciador:**
+- 🤖 Habilidades técnicas en IA y MLOps
+- 💬 Experiencia en Gestión de Crisis y RRPP (6+ años)
+- ⚖️ Enfoque en IA ética y protección de reputación corporativa
+- 🌉 Puente entre equipos técnicos y stakeholders
 
-En camino a convertirme en **MLOps Engineer**.
+**Stack técnico actual:**
+- Python, MySQL, PostgreSQL
+- Git & GitHub
+- HTML/CSS/JavaScript
+- POO (en desarrollo)
+
+**En camino a dominar:**
+- Machine Learning & NLP
+- Docker & Kubernetes
+- CI/CD pipelines
+- Cloud platforms (AWS/GCP)
 
 ## 🛠️ Stack Tecnológico del Sitio
 
@@ -23,21 +35,47 @@ En camino a convertirme en **MLOps Engineer**.
 - **Hosting:** GitHub Pages
 - **Diseño:** Responsivo con CSS Grid y Flexbox
 - **Animaciones:** CSS Transitions y Intersection Observer API
+- **Performance:** Optimizado para móvil y desktop
 
 ## 🎨 Características
 
-- ✨ Animaciones suaves de entrada
-- 🎯 Diseño de tarjetas interactivas
-- 📱 Totalmente responsivo
-- 🌐 Optimizado para todos los navegadores modernos
-- 🎭 Efectos hover personalizados
+- ✨ Animaciones suaves de entrada con Intersection Observer
+- 🎯 Sistema de tarjetas interactivas con efectos hover
+- 📱 Diseño 100% responsivo (mobile-first)
+- 🌐 Compatible con todos los navegadores modernos
+- 🎭 Formas flotantes animadas en el fondo
+- ⚡ Carga rápida y rendimiento optimizado
+
+## 📂 Estructura del Proyecto
+```
+aerobalderas.github.io/
+│
+├── index.html          # Página principal con CV completo
+└── README.md          # Este archivo
+```
+
+## 🔄 Roadmap Personal
+
+- [x] Crear CV digital interactivo
+- [x] Configurar GitHub Pages
+- [ ] Completar roadmap de ML (6 meses)
+- [ ] Agregar proyectos de Machine Learning
+- [ ] Implementar sistema de blog técnico
+- [ ] Dominio personalizado
 
 ## 📫 Contacto
 
-- 📧 Email: aerobalderas@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/aerobalderas](https://linkedin.com/in/aerobalderas)
-- 🌐 Portfolio: [aerobalderas.github.io](https://aerobalderas.github.io)
+- 📧 **Email:** aerobalderas@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/aerobalderas](https://linkedin.com/in/aerobalderas)
+- 🌐 **Portfolio:** [aerobalderas.github.io](https://aerobalderas.github.io)
+- 💻 **GitHub:** [@aerobalderas](https://github.com/aerobalderas)
+
+## 📝 Licencia
+
+Este proyecto es de código abierto y está disponible bajo la [MIT License](LICENSE).
 
 ---
 
-⭐ Si te gusta este proyecto, dale una estrella ⭐️
+⭐ Si te gusta este proyecto o te sirve de inspiración, ¡dale una estrella!
+
+**Estado:** En desarrollo activo | Última actualización: Octubre 2025
