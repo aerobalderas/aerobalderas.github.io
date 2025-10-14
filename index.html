@@ -253,15 +253,69 @@
 
         @media (max-width: 768px) {
             .hero {
-                font-size: 2.5em;
+                font-size: 2em;
+                padding: 0 10px;
+            }
+
+            .logo {
+                font-size: 1.4em;
+                margin-bottom: 40px;
+            }
+
+            .profile-pic {
+                width: 60px;
+                height: 60px;
+            }
+
+            .header {
+                padding: 40px 15px;
             }
 
             .card.blue {
                 grid-column: span 1;
+                min-height: auto;
             }
 
             .grid-container {
                 grid-template-columns: 1fr;
+                padding: 20px 15px;
+                gap: 15px;
+            }
+
+            .card {
+                padding: 30px 25px;
+            }
+
+            .card-content {
+                font-size: 1.5em;
+            }
+
+            .card-icon {
+                font-size: 2.5em;
+            }
+
+            .arrow {
+                bottom: 20px;
+                right: 20px;
+                font-size: 1.2em;
+            }
+
+            .experience-title {
+                font-size: 1.1em;
+            }
+
+            .skill-pill {
+                font-size: 0.85em;
+                padding: 6px 12px;
+            }
+
+            .floating-shape {
+                width: 200px;
+                height: 200px;
+            }
+
+            .card.dark[style*="grid-column: span 2"] {
+                grid-column: span 1;
             }
         }
 
