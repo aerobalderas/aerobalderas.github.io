@@ -72,6 +72,8 @@
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 20px;
+            position: relative;
+            z-index: 1;
         }
 
         .card {
@@ -271,19 +273,23 @@
                 padding: 40px 15px;
             }
 
-            .card.blue {
-                grid-column: span 1;
-                min-height: auto;
-            }
-
             .grid-container {
-                grid-template-columns: 1fr;
+                grid-template-columns: 1fr !important;
                 padding: 20px 15px;
                 gap: 15px;
+                display: flex;
+                flex-direction: column;
             }
 
             .card {
                 padding: 30px 25px;
+                width: 100%;
+                grid-column: 1 !important;
+            }
+
+            .card.blue {
+                grid-column: 1 !important;
+                min-height: auto;
             }
 
             .card-content {
@@ -312,10 +318,6 @@
             .floating-shape {
                 width: 200px;
                 height: 200px;
-            }
-
-            .card.dark[style*="grid-column: span 2"] {
-                grid-column: span 1;
             }
         }
 
